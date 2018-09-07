@@ -218,8 +218,8 @@ class EquipmentAdmin(sqla.ModelView):
         code='设备数量',
         date='日期',
         status='状态',
-        remark='备注',
-        person ='使用人',
+        remark='使用人',
+        # person ='使用人',
         department='部门名称'
     )
 
