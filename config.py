@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 
 __author__ = 'daben_chen'
-__version__ = "1.0.1"
+__version__ = "1.0.0"
 __email__ = "vida112728@gmail.com"
 
 class Config(object):
